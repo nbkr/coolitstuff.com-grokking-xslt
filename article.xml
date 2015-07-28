@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<article>
+
+    <authors>
+        <author email='mail@example.com'>Ben Fleckenstein</author>
+        <author email='mail2@example.com'>Mr. BlaBla</author>
+    </authors>
+
+    <content title='Grokking XSLT'>
+        <heading level='1'>Lorem Ipsum</heading>
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nunc
+        nibh. In et nunc vehicula, pellentesque mi euismod, porttitor metus.
+        Etiam viverra sapien in erat fringilla, vel eleifend massa cursus.
+        Nulla arcu augue, vulputate ac arcu at, dignissim tincidunt massa.
+        Nulla facilisi. Aliquam at tortor quis mi convallis posuere. Mauris
+        sagittis dui quis purus tincidunt congue. Vestibulum ullamcorper ornare
+        pharetra. Curabitur egestas euismod enim. Pellentesque at risus
+        ultricies, aliquet odio a, facilisis lacus. 
+
+        <list type='ordered'>
+            <item>Just</item>
+            <item>some</item>
+            <item>random</item>
+            <item>items.</item>
+        </list>
+    </content>
+
+
+    <images>
+        <img file='images/bla.jpg'>
+            <label>Just an image that I don't want to show in the HTML</label>
+        </img>
+    </images>
+</article>
